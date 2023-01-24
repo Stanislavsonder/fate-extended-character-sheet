@@ -15,6 +15,6 @@ git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:stanislavsonder/fate-extended-character-sheet.git main:gh-pages
+git push -f git@github.com:Stanislavsonder/fate-extended-character-sheet.git main:gh-pages
 
 cd -
