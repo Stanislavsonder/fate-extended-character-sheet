@@ -5,6 +5,11 @@ export enum AspectType {
     Problem = 'problem'
 }
 
+
+type Aaa = {
+    a: string
+}
+
 export type Aspect = {
     title: string
     description: string
